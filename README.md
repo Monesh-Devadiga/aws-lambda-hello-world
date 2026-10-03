@@ -19,5 +19,5 @@ Hello from AWS Lambda!
 The function was successfully executed using the AWS Lambda
 Management Console.
 
-## AWS Service Used
+### AWS Service Used
 AWS Lambda

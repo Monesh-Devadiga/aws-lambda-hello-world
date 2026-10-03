@@ -11,7 +11,7 @@ To create and test a basic serverless function using AWS Lambda.
 ### Description
 This project demonstrates how AWS Lambda executes Python code without requiring the user to manage a server.
 
-## Function
+### Function
 The Lambda function returns:
 Hello from AWS Lambda!
 

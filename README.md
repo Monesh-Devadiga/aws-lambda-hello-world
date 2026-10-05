@@ -1,7 +1,7 @@
 # AWS Lambda Hello World
 A simple serverless application developed using AWS Lambda and Python.
 
-### Objective
+### Objective 
 To create and test a basic serverless function using AWS Lambda.
  
 ### Technologies Used

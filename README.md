@@ -7,7 +7,7 @@ To create and test a basic serverless function using AWS Lambda.
 ### Technologies Used
 - AWS Lambda
 - Python
-a
+
 ### Description
 This project demonstrates how AWS Lambda executes Python code without requiring the user to manage a server.
 

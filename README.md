@@ -1,4 +1,4 @@
-# AWS Lambda Hello 
+# AWS Lambda 
 A simple serverless application developed using AWS Lambda and Python.
 
 ### Objective 

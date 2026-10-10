@@ -24,4 +24,4 @@ AWS Lambda
 
 ---------------------------------------------------------------------------------------------------------------------
 Created By: 
-  [@Monesh Devadiga](https://github.com/Monesh-Devadiga) 
+  [@Monesh Devadiga](https://github.com/Monesh-Devadiga)

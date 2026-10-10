@@ -1,6 +1,6 @@
 # AWS Lambda
 A simple serverless application developed using AWS Lambda and Python.
-a
+
 ### Objective 
 To create and test a basic serverless function using AWS Lambda.
 

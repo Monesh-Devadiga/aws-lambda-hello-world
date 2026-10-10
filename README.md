@@ -3,7 +3,7 @@ A simple serverless application developed using AWS Lambda and Python.
 
 ### Objective 
 To create and test a basic serverless function using AWS Lambda.
-a
+
 ### Technologies Used
 - AWS Lambda
 - Python
